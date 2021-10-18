@@ -2,7 +2,6 @@
 
 ## I'm an aspiring developer and I hope to expand my developer tool kit!!
 
-- 🔭 I am on the job hunt!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Publish my first web development project
