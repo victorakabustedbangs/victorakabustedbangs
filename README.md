@@ -5,8 +5,8 @@
 - 🔭 I am on the job hunt!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Publish my first project
-- ⚡ Fun fact: My favourite song to play to on guitar is Chris Hadfield's rendition of David Bowie's Space Oddity
+- 🥅 2021 Goals: Publish my first web development project
+- ⚡ Fun fact: My favourite song to play on guitar is Chris Hadfield's rendition of David Bowie's Space Oddity
 
 ### Connect with me:
 
