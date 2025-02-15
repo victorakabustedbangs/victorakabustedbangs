@@ -50,19 +50,13 @@ I thrive at the intersection of **technology, business, and data**, and I'm on a
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/victorakabustedbangs" target="_blank">
-    <img alt="GitHub" src="https://github.com/github/explore/raw/main/topics/github/github.svg" width="30px" style="filter: invert(0); transition: filter 0.3s ease-in-out;" id="github-logo" />
+    <picture>
+      <source srcset="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" media="(prefers-color-scheme: light)" />
+      <source srcset="https://github.com/maurodesouza/profile-readme-generator/blob/master/src/assets/icons/social/github-white.svg?raw=true" media="(prefers-color-scheme: dark)" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30px" />
+    </picture>
   </a>
 </p>
-
-<script>
-  function updateGithubLogo() {
-    const isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    document.getElementById('github-logo').style.filter = isDarkMode ? 'invert(1)' : 'invert(0)';
-  }
-  
-  updateGithubLogo();
-  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', updateGithubLogo);
-</script>
 
 ---
 
