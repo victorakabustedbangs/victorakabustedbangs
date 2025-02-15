@@ -1,16 +1,15 @@
-### Hi there, I'm Victor aka busted bangs 👋
+### Hi there, I'm Victor 👋
 
 ## I'm an aspiring developer and I hope to expand my developer tool kit!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning full stack engineering
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Publish my first web development project
-- ⚡ Fun fact: My favourite song to play on guitar is Chris Hadfield's rendition of David Bowie's Space Oddity
+- 🥅 2025 Goals: Publish my first web development project and create an automated trading system
+- ⚡ Fun fact: My favourite guitar jam is Chris Hadfield's rendition of David Bowie's Space Oddity
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
 <br />
 
@@ -27,7 +26,6 @@
 <br />
 
 
-[instagram]: https://www.instagram.com/victordu.it/
 [linkedin]: https://www.linkedin.com/in/victordu577/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
