@@ -46,6 +46,7 @@ I thrive at the intersection of **technology, business, and data**, and I'm on a
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]  [<img align="left" alt="GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />][github]  
 
+
 ---
 
 💡 Always open to **collaborating on interesting projects** and **learning from fellow developers**. If you're building something cool, **let's chat!** 🚀  
