@@ -2,18 +2,12 @@
 
 #### 🧠 Business Analyst | 🖥️ Aspiring Developer | 📈 Data Enthusiast  
 
-I’m a **business analyst turned developer** with a background in **mathematical physics**. I love **building, learning, and solving complex problems**, whether it's in **data science, full-stack development, or automated trading**.  
-
-I thrive at the intersection of **technology, business, and data**, and I'm on a mission to expand my developer toolkit and bring **data-driven solutions** to life.  
-
 ---
 
 #### 🚀 What I'm Working On  
 
 - 🌱 Currently learning **full-stack engineering** and **databases**  
 - 🔧 Exploring **Python, JavaScript, and SQL** for **web apps & data-driven applications**  
-- 🤖 Building an **automated trading system** for high-volatility markets  
-- 🛠 Developing **a personal knowledge management tool** to process and summarize textbooks  
 
 ---
 
@@ -41,7 +35,7 @@ I thrive at the intersection of **technology, business, and data**, and I'm on a
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)  
 
 #### **Frameworks & Tools**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)  ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)  ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)  ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
 
 ---
 
