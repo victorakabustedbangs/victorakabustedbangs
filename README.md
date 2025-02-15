@@ -44,12 +44,16 @@ I thrive at the intersection of **technology, business, and data**, and I'm on a
 
 #### 📬 Let's Connect!  
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/victordu577/)  
-[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/victorakabustedbangs)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/victordu577/" target="_blank">
+    <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/victorakabustedbangs" target="_blank">
+    <img alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="22px" />
+  </a>
+</p>
 
 ---
 
 💡 Always open to **collaborating on interesting projects** and **learning from fellow developers**. If you're building something cool, **let's chat!** 🚀  
-
-[linkedin]: https://www.linkedin.com/in/victordu577/
-[github]: https://github.com/victorakabustedbangs
