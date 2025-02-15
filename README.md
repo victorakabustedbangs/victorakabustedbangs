@@ -44,9 +44,10 @@ I thrive at the intersection of **technology, business, and data**, and I'm on a
 
 #### 📬 Let's Connect!  
 
-💼 [LinkedIn](https://www.linkedin.com/in/victordu577/)  
-📩 [GitHub](https://github.com/victordu577)  
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 ---
 
 💡 Always open to **collaborating on interesting projects** and **learning from fellow developers**. If you're building something cool, **let's chat!** 🚀  
+
+[linkedin]: https://www.linkedin.com/in/victordu577/
