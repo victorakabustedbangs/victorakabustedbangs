@@ -46,15 +46,11 @@ I thrive at the intersection of **technology, business, and data**, and I'm on a
 
 <p align="left">
   <a href="https://www.linkedin.com/in/victordu577/" target="_blank">
-    <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" />
+    <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22px" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/victorakabustedbangs" target="_blank">
-    <picture>
-      <source srcset="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" media="(prefers-color-scheme: light)" />
-      <source srcset="https://github.com/maurodesouza/profile-readme-generator/blob/master/src/assets/icons/social/github-white.svg?raw=true" media="(prefers-color-scheme: dark)" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30px" />
-    </picture>
+    <img alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="22px" />
   </a>
 </p>
 
