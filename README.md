@@ -28,7 +28,7 @@ I thrive at the intersection of **technology, business, and data**, and I'm on a
 
 ## 💡 Fun Fact  
 
-🎸 My favorite guitar jam? **Chris Hadfield's rendition of David Bowie's "Space Oddity"** – because space and music make everything better.  
+🎸 My favorite guitar jam? **Chris Hadfield's rendition of "Space Oddity"**
 
 ---
 
