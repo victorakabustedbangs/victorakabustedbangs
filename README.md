@@ -6,7 +6,7 @@
 
 #### 🚀 What I'm Working On  
 
-- 🌱 Currently learning **full-stack engineering** and **databases** at Frontendmasters 
+- 🌱 Currently completing **full-stack engineering** and **database** courses
 - 🔧 Exploring **Python, JavaScript, and SQL** for **web apps & data-driven applications**  
 
 ---
